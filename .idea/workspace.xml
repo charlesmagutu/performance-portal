@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2225547-7168-4503-a605-f836adea7d5f" name="Changes" comment="" />
+    <list default="true" id="c2225547-7168-4503-a605-f836adea7d5f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/condabu/Documents/Development/performance-portal/ptp-backend",
+    "last_opened_file_path": "C:/Users/condabu/Documents/Development/performance-portal",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +65,7 @@
       <workItem from="1709643174081" duration="524000" />
       <workItem from="1709643718988" duration="2396000" />
       <workItem from="1709671004009" duration="624000" />
+      <workItem from="1709671846807" duration="968000" />
     </task>
     <servers />
   </component>
