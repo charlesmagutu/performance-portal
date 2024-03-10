@@ -1,0 +1,41 @@
+{
+    "ServerDetails": [
+      {
+        "ServerID": 1,
+        "ServerName": "Server1",
+        "IPAddress": "192.168.1.100",
+        "Location": "Datacenter A",
+        "OS": "Linux",
+        "CPU": "Intel Xeon",
+        "MemoryGB": 16.5,
+        "StorageGB": 500,
+        "Status": "Active",
+        "LastUpdated": "2024-03-10T12:00:00Z"
+      },
+      {
+        "ServerID": 2,
+        "ServerName": "Server2",
+        "IPAddress": "192.168.1.101",
+        "Location": "Datacenter B",
+        "OS": "Windows Server",
+        "CPU": "AMD Ryzen",
+        "MemoryGB": 32.0,
+        "StorageGB": 1000,
+        "Status": "Inactive",
+        "LastUpdated": "2024-03-10T12:15:00Z"
+      },
+      {
+        "ServerID": 3,
+        "ServerName": "Server3",
+        "IPAddress": "192.168.1.102",
+        "Location": "Datacenter A",
+        "OS": "Ubuntu Server",
+        "CPU": "ARM Cortex",
+        "MemoryGB": 8.75,
+        "StorageGB": 250,
+        "Status": "Offline",
+        "LastUpdated": "2024-03-10T12:30:00Z"
+      }
+    ]
+  }
+  
