@@ -207,4 +207,8 @@ CREATE INDEX idx_TestResult_Environment ON TestResult(EnvironmentId);
 CREATE INDEX idx_TestResult_SystemUnderTest ON TestResult(SystemUnderTestId);
 CREATE INDEX idx_TestResult_Target ON TestResult(TargetId);
 ```
+### Uvicon sert app
+```sql
+pip install fastapi uvicorn mysql-connector-python python-dotenv 
+```
 
